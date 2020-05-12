@@ -1,0 +1,4 @@
+igraph = 0.1.11 [pip install igraph]
+pycairo = 1.19.11 [conda install -c conda-forge pycairo]
+pandas = 1.0.3
+numpy = 1.18.1
